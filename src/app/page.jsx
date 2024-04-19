@@ -42,7 +42,7 @@ export default function Home() {
     return (
         <section className={styles.section}>
             <h1 className={styles.title}>
-                {isMobile ? "Bobby's website" : "Welcome to Bobby's website!"}
+                {isMobile ? "Lim's website" : "Welcome to Lim's website!"}
             </h1>
             <p className={styles.text}>
                 My journey with computers started in the late-80s/early-90s and
